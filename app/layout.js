@@ -9,7 +9,7 @@ import { Toaster } from "sonner";
 const inter=Inter({subsets:["latin"]});
 
 export const metadata = {
-  title: "AI Career Coach",
+  title: "VidyaCoach-AI",
   description: "Your One Stop Career Coach",
 };
 
